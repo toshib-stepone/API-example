@@ -1,5 +1,5 @@
 """
-Simple two-player Tic Tac Toe (console version).
+Simple two-player Tic Tac Toe (console).
 Player 1 = X, Player 2 = O. Enter a position 1-9 as shown on the board.
 """
 
